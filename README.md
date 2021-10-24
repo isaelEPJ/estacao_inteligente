@@ -1,16 +1,21 @@
-# estacao_inteligente
+<h1 align="center">Bem vindo(a) ao estacao inteligente 🚇</h1>
 
-A new Flutter project.
+ Um software para gerenciamento de serviços de estações metroferroviárias com conceito de zeladoria urbana em cidades inteligentes que proporciona participação popular.
 
-## Getting Started
+## Protótipo em desenvolvimento
+<h2 align="center">  <img src = 'https://raw.githubusercontent.com/isaelEPJ/estacao_inteligente/master/assets/estacao_inteligente.gif' width='350'/> </h2>
 
-This project is a starting point for a Flutter application.
+![Logo](https://raw.githubusercontent.com/isaelEPJ/estacao_inteligente/master/assets/images/project/logo.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Desenvolvimento
+O desenvolvimento do app foi realizado com o framework *Flutter* e com a linguagem *Dart*.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Realize o Download do Aplicativo no link abaixo
+
+[![Download](https://img.shields.io/badge/-DOWNLOAD-black?style=flat-square&logo=DOWNLOAD&logoColor=white&link=https://github.com/isaelEPJ/estacao_inteligente/blob/master/assets/app-armeabi-v7a-release.apk?raw=true)](https://github.com/isaelEPJ/estacao_inteligente/blob/master/assets/app-armeabi-v7a-release.apk?raw=true)
+
+Caso tenha algum problema na instalação ou o apk não foi compativel com seu aparelho, entre em contato conosco!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isael.ijj@gmail.com)
