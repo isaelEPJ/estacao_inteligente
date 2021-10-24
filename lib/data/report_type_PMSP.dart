@@ -1,0 +1,77 @@
+import 'package:estacao_inteligente/shared/model/pmsp_report_type.dart';
+import 'package:estacao_inteligente/shared/model/report_model.dart';
+
+const ReportTypePMSP = [
+  ReportModelPMSP(
+    id: 1,
+    name: 'Reportar acidente',
+    description: 'description',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/bulb-dynamic-color.png',
+    resolvido: false,
+  ),
+  ReportModelPMSP(
+    id: 2,
+    name: 'Arborizaçao',
+    description: 'description',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/megaphone-dynamic-color.png',
+    resolvido: false,
+  ),
+  ReportModelPMSP(
+    id: 3,
+    name: 'Buraco',
+    description: 'assets/images/project/icon_pergunta.png',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/zoom-dynamic-color.png',
+    resolvido: false,
+  ),
+  ReportModelPMSP(
+    id: 4,
+    name: 'Energia',
+    description: 'assets/images/project/icon_elogio.png',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/thumb-up-dynamic-color.png',
+    resolvido: false,
+  ),
+  ReportModelPMSP(
+    id: 5,
+    name: 'Legislaçao',
+    description: 'description',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/fire-dynamic-color.png',
+    resolvido: false,
+  ),
+  ReportModelPMSP(
+    id: 6,
+    name: 'Limpeza Urbana',
+    description: 'description',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/fire-dynamic-color.png',
+    resolvido: false,
+  ),
+  ReportModelPMSP(
+    id: 7,
+    name: 'Segurança',
+    description: 'description',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/fire-dynamic-color.png',
+    resolvido: false,
+  ),
+  ReportModelPMSP(
+    id: 5,
+    name: 'Sinalização',
+    description: 'description',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/fire-dynamic-color.png',
+    resolvido: false,
+  ),
+  ReportModelPMSP(
+    id: 5,
+    name: 'Outro',
+    description: 'description',
+    direcionamento: Direcionamento.pmsp,
+    status: 'assets/images/project/fire-dynamic-color.png',
+    resolvido: false,
+  ),
+];
